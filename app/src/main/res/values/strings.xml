@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Resensi Novel</string>
+    <string name="novel_name">Judul Novel</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="card_view">Card View</string>
+    <string name="favorite">favorite</string>
+    <string name="share">share</string>
+    <string name="sedtia_prayogo">Sedtia Prayogo</string>
+    <string name="about">About</string>
+</resources>
